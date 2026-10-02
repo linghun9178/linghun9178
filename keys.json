@@ -3,5 +3,6 @@
   "TESTKEY001":  { "expire": "2026-12-31 23:59:59" },
   "LINGHUN-VIP01": { "expire": "2027-12-31 23:59:59" },
   "LINGHUN-VIP02": { "expire": "2027-12-31 23:59:59" },
-  "ADMINLINGHUN": { "expire": "2099-12-31 23:59:59" }
+  "ADMINLINGHUN": { "expire": "2099-12-31 23:59:59" },
+  "ADMIN": { "expire": "9999-12-31 23:59:59" }
 }
